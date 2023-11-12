@@ -1,0 +1,26 @@
+.cartCircle {
+    position: relative;
+    padding: 1px 3px;
+
+    margin: 0 0 0 10px;
+    top: 5px;
+
+    text-align: center;
+    font-size: 8px;
+    font-weight: 800;
+    color: black;
+
+    background-color: #FFD91B;
+    border: #FFD91B 1px solid;
+    border-radius: 20px;
+}
+
+.underlineOffset:hover {
+    text-underline-offset: 2.6em;
+}
+
+.navTextFont {
+    color: #4f4f4f;
+    font-weight: 600;
+    font-size: 14px;
+}
