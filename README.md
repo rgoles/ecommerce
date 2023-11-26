@@ -1,2 +1,2 @@
 # ecommerce
-first try at ecommerce with react + bootstrap
+first try at ecommerce with react + tailwind
